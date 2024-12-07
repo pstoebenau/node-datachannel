@@ -1,5 +1,5 @@
 build
-dist
+# dist
 prebuilds
 node_modules
 .vscode
